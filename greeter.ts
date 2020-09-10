@@ -5,7 +5,7 @@ class Greeter {
     }
 };
 
-var greeter = new Greeter("Hello, world!");
+var greeter = new Greeter("Hello, git world!");
     
 document.body.innerHTML = greeter.greet();
 //
